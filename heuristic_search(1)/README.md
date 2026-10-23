@@ -66,6 +66,7 @@ không nhìn trọng số cạnh); chỉ `ratio` khác. Đó là hệ quả củ
 5. GUI: sửa đồ thị mới ở mức thêm/xóa cạnh (không kéo-thả nút, không đổi trọng số tay). Phần GUI chưa
    được kiểm thử tự động (cần màn hình); phần Model/Controller-logic độc lập với GUI đã được kiểm thử.
 
-## Tiếng Việt / mã hóa
-Mọi file `.py`, `README.md` là UTF-8 (có test kiểm tra). `benchmark_results.csv` ghi UTF-8 có BOM để Excel mở
-đúng. Matplotlib dùng phông DejaVu Sans nên hiển thị đủ dấu tiếng Việt trong biểu đồ và trên canvas.
+<img width="1750" height="1051" alt="1792738028787_2053698624876725435_2672057420249458734_a7c267d916638e27960a0c85f807bb11" src="https://github.com/user-attachments/assets/0312f9d4-88b1-4e1a-94cf-2d53bc28ec78" />
+
+
+
